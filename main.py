@@ -88,13 +88,13 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("GAN文字生成工具")
         self.setGeometry(100, 100, 800, 600)
 
-#ssh -p 32170 root@i-2.gpushare.com
+
         # 服务器配置
         self.server_config = {
-            'hostname': 'i-2.gpushare.com',
-            'port': 320000,
+            'hostname': 'host.com',
+            'port': 322220000,
             'username': 'root',
-            'password': 'Y9xy3tbXbe000CPsqFnT0003'
+            'password': 'Y922222003'
         }
 
         # 初始化成员变量
