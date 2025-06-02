@@ -92,9 +92,9 @@ class MainWindow(QMainWindow):
         # 服务器配置
         self.server_config = {
             'hostname': 'i-2.gpushare.com',
-            'port': 32170,
+            'port': 320000,
             'username': 'root',
-            'password': 'Y9xy3tbXbeBb5X72WcACPsqFnTht5He3'
+            'password': 'Y9xy3tbXbe000CPsqFnT0003'
         }
 
         # 初始化成员变量
